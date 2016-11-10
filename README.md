@@ -1,8 +1,10 @@
 # RYAN-in-CSS
 A Ryan(with hoodie) character in pure CSS 
+![alt tag](https://raw.githubusercontent.com/jiwoo-choi/RYAN-in-CSS/master/ryan_hood.png)
 
 ## Disclaimer
 All characters and images are copyright to their respective owners.
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 ### Reference for this 
 
